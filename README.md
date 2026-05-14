@@ -1,4 +1,4 @@
-I'm the author of **[Lixpi[(https://github.com/Lixpi/lixpi)** an AI-powered graphic editor for image and video generation. It's not a traditional editor like Photoshop or Premiere. it looks more like an AI concept board where an artist runs their entire creative workflow on an infinite canvas. Technically, it's a visual, node-based workflow engine for AI image and video pipelines, where the spatial arrangement of nodes *is* the workflow.
+I'm the author of **[Lixpi](https://github.com/Lixpi/lixpi)** an AI-powered graphic editor for image and video generation. It's not a traditional editor like Photoshop or Premiere. it looks more like an AI concept board where an artist runs their entire creative workflow on an infinite canvas. Technically, it's a visual, node-based workflow engine for AI image and video pipelines, where the spatial arrangement of nodes *is* the workflow.
 
 A few things make it unusual.
 
