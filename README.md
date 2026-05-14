@@ -1,4 +1,4 @@
-I'm the author of **Lixpi** an AI-powered graphic editor for image and video generation. It's not a traditional editor like Photoshop or Premiere. it looks more like an AI concept board where an artist runs their entire creative workflow on an infinite canvas. Technically, it's a visual, node-based workflow engine for AI image and video pipelines, where the spatial arrangement of nodes *is* the workflow.
+I'm the author of **[Lixpi[(https://github.com/Lixpi/lixpi)** an AI-powered graphic editor for image and video generation. It's not a traditional editor like Photoshop or Premiere. it looks more like an AI concept board where an artist runs their entire creative workflow on an infinite canvas. Technically, it's a visual, node-based workflow engine for AI image and video pipelines, where the spatial arrangement of nodes *is* the workflow.
 
 A few things make it unusual.
 
@@ -35,7 +35,7 @@ Some of the features described above are still in development and currently live
 
 ---
 
-Another project of mine is an **incremental markdown stream parser** a library that parses an LLM response token by token and emits styled segments in real time. It's one of the foundational pieces inside Lixpi (it drives the live-styled chat output), but it lives as a standalone open-source package and stays render-agnostic, it emits parsed segments with their styles, and the consumer decides how to draw them.
+Another project of mine is **[@lixpi/markdown-stream-parser](https://github.com/Lixpi/markdown-stream-parser)** an **incremental markdown stream parser** a library that parses an LLM response token by token and emits styled segments in real time. It's one of the foundational pieces inside Lixpi (it drives the live-styled chat output), but it lives as a standalone open-source package and stays render-agnostic, it emits parsed segments with their styles, and the consumer decides how to draw them.
 
 The current release uses a custom state machine with regex pattern matching. In the next version, my friend and business partner and I are replacing that with **Tree-sitter**, which handles incremental parsing and malformed input gracefully, exactly what you want for the "probabilistic markdown" LLMs produce.
 
