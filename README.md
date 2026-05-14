@@ -20,8 +20,6 @@ Later this month during Tech Week I'll be showing the project at several events,
 
 Some of the features described above are still in development and currently live only on the `develop` branch or in open pull requests. Reach out if you'd like to see a live demo.
 
----
-
 **Tech stack**
 
 - **LangGraph** - AI workflow orchestration
