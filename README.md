@@ -31,6 +31,8 @@ Some of the features described above are still in development and currently live
 - **LLM / media APIs** - OpenAI, Anthropic, Google, Stable Diffusion, Bytedance (Seedance 2)
 - **TypeScript** - the main language across the project. The current preview release still includes one Python service; that gets replaced by a TypeScript implementation in the upcoming release.
 
+**Source**
+- Repo: [https://github.com/Lixpi/lixpi](https://github.com/Lixpi/lixpi)
 
 
 ---
